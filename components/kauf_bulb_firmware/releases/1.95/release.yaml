@@ -1,0 +1,23 @@
+uuid: fd327965-a46b-42a1-85ad-a31468100e2b
+version: "1.95"
+createdDate: "2025-10-28T22:49:57Z"
+releaseDate: "2025-10-28T22:49:57Z"
+preRelease: false
+identifiers: []
+distributions:
+- distributionType: ""
+  description: ""
+  identifiers: []
+  url: https://github.com/KaufHA/kauf-rgbww-bulbs/releases/download/v1.95/kauf-bulb-v1.95-update-1m.bin
+  signatureUrl: ""
+  checksums:
+  - algType: SHA-256
+    algValue: 485c14ae5d062e768406742ba9e7c18e30a5983bcd2537975c7d6f69acadba10
+- distributionType: ""
+  description: ""
+  identifiers: []
+  url: https://github.com/KaufHA/kauf-rgbww-bulbs/releases/download/v1.95/kauf-bulb-v1.95-update-4m.bin
+  signatureUrl: ""
+  checksums:
+  - algType: SHA-256
+    algValue: 38fc00e13e7244bd04e8d7ca7cd95fc7949558615835202c689184291ce71cb3
