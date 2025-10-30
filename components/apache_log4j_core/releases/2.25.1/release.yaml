@@ -1,0 +1,19 @@
+uuid: 21315439-c1f5-4f32-9de5-f08226543717
+version: 2.25.1
+createdDate: "2025-10-30T16:44:17Z"
+releaseDate: "2025-10-30T16:44:17Z"
+preRelease: false
+identifiers:
+- idType: PURL
+  idValue: pkg:maven/org.apache.logging.log4j/log4j-core@2.25.1
+distributions:
+- distributionType: ""
+  description: ""
+  identifiers:
+  - idType: PURL
+    idValue: pkg:maven/org.apache.logging.log4j/log4j-core@2.25.1?type=jar
+  url: https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.25.1/log4j-core-2.25.1.jar
+  signatureUrl: ""
+  checksums:
+  - algType: SHA-1
+    algValue: 32b3a228d5a30a4528b6c7354fe6cff9524d89e7
